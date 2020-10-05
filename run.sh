@@ -1,0 +1,1 @@
+env "$(xargs < .env)" python main.py
